@@ -9,11 +9,34 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var imageViewOne: UIImageView!
+    
+    @IBOutlet weak var imageViewTwo: UIImageView!
+    
+    
+    @IBOutlet weak var imageViewThree: UIImageView!
+    
+    
+    @IBOutlet weak var imageViewFour: UIImageView!
+    
+    
+    @IBOutlet weak var imageViewFive: UIImageView!
+    
+    
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
 
+    
+    
+    
+    
+    
 }
 
